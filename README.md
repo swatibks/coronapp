@@ -1,1 +1,2 @@
 # coronapp
+Track Corona cases
