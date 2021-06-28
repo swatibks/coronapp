@@ -1,1 +1,1 @@
-# coronapp
+# Swati Sinha's coronapp
